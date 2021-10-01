@@ -1,0 +1,29 @@
+{
+    "Sorter": {
+        "checkpoints": [
+            {
+                "steps": 10242,
+                "file_path": "results\\ppo\\Sorter\\Sorter-10242.onnx",
+                "reward": null,
+                "creation_time": 1633045992.9340923,
+                "auxillary_file_paths": [
+                    "results\\ppo\\Sorter\\Sorter-10242.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10242,
+            "file_path": "results\\ppo\\Sorter.onnx",
+            "reward": null,
+            "creation_time": 1633045992.9340923,
+            "auxillary_file_paths": [
+                "results\\ppo\\Sorter\\Sorter-10242.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.9.1+cpu"
+    }
+}
